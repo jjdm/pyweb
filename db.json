@@ -1,0 +1,1 @@
+{"groups": {"1": {"name": "user", "permissions": [{"type": "read"}]}, "2": {"name": "sudo", "permissions": [{"type": "read"}, {"type": "sudo"}]}, "3": {"name": "admin", "permissions": [{"type": "read"}, {"type": "write"}, {"type": "sudo"}]}}, "_default": {"3": {"int": 1, "char": "a"}, "4": {"int": 1, "char": "b"}}}
